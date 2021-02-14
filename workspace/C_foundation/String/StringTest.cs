@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace String
 {
+    // String 클래스
     class StringTest
     {
         // C# 의 키워드 String 은 .NET의 System.String 클래스와 동일허다.

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{C0BEFA9B-68EC-4357-A017-8B5B4DBA1491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum(열거형)", "enum(열거형)\enum(열거형).csproj", "{43BFFDC8-34EA-4327-A619-C1A872AF5B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C0BEFA9B-68EC-4357-A017-8B5B4DBA1491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0BEFA9B-68EC-4357-A017-8B5B4DBA1491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0BEFA9B-68EC-4357-A017-8B5B4DBA1491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BFFDC8-34EA-4327-A619-C1A872AF5B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BFFDC8-34EA-4327-A619-C1A872AF5B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BFFDC8-34EA-4327-A619-C1A872AF5B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BFFDC8-34EA-4327-A619-C1A872AF5B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

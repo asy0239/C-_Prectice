@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\bin\Debug\enum(열거형).exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\bin\Debug\enum(열거형).exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\bin\Debug\enum(열거형).pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\obj\Debug\enum(열거형).csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\obj\Debug\enum(열거형).csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\obj\Debug\enum(열거형).exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\enum(열거형)\obj\Debug\enum(열거형).pdb

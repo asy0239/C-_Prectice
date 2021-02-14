@@ -12,7 +12,9 @@ namespace String
         {
             StringTest st = new StringTest();
             //st.stringTestFunc();
-            st.stringArrayTest();
+            //st.stringArrayTest();
+            StringBuilderTest sbt = new StringBuilderTest();
+            sbt.stringBuilderTest();
 
         }
     }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C0BEFA9B-68EC-4357-A017-8B5B4DBA1491}</ProjectGuid>
+    <ProjectGuid>{964E568E-1DAF-4A6B-907A-F91273A72E6D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>String</RootNamespace>
-    <AssemblyName>String</AssemblyName>
+    <RootNamespace>@operator</RootNamespace>
+    <AssemblyName>@operator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StringBuilderTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StringTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
