@@ -10,6 +10,8 @@ namespace @operator
     {
         static void Main(string[] args)
         {
+            operatorTest ot = new operatorTest();
+            ot.Optor();
         }
     }
 }

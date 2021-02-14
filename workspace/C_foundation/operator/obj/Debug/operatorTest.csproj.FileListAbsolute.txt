@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\bin\Debug\@operator.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\bin\Debug\@operator.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\bin\Debug\@operator.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\obj\Debug\operatorTest.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\obj\Debug\operatorTest.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\obj\Debug\@operator.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\operator\obj\Debug\@operator.pdb
