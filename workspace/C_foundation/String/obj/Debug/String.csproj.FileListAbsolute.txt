@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\bin\Debug\String.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\bin\Debug\String.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\bin\Debug\String.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\obj\Debug\String.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\String\obj\Debug\String.pdb
