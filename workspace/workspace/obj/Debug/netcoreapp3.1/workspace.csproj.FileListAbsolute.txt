@@ -1,0 +1,13 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\bin\Debug\netcoreapp3.1\workspace.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\bin\Debug\netcoreapp3.1\workspace.deps.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\bin\Debug\netcoreapp3.1\workspace.runtimeconfig.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\bin\Debug\netcoreapp3.1\workspace.runtimeconfig.dev.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\bin\Debug\netcoreapp3.1\workspace.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\bin\Debug\netcoreapp3.1\workspace.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.AssemblyInfoInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.AssemblyInfo.cs
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\workspace\obj\Debug\netcoreapp3.1\workspace.genruntimeconfig.cache

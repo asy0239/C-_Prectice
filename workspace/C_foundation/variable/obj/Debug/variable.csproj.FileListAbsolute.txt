@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\bin\Debug\variable.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\bin\Debug\variable.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\bin\Debug\variable.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\obj\Debug\variable.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\obj\Debug\variable.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\obj\Debug\variable.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\variable\obj\Debug\variable.pdb

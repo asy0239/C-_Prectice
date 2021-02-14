@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\bin\Debug\Array.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\bin\Debug\Array.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\bin\Debug\Array.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\obj\Debug\Array.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\Array\obj\Debug\Array.pdb

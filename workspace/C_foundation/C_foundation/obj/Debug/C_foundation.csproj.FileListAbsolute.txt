@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\bin\Debug\C_foundation.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\bin\Debug\C_foundation.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\bin\Debug\C_foundation.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\obj\Debug\C_foundation.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\obj\Debug\C_foundation.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\obj\Debug\C_foundation.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\C_foundation\obj\Debug\C_foundation.pdb

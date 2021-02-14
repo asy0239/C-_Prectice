@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\bin\Debug\01MemberVar.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\bin\Debug\01MemberVar.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\bin\Debug\01MemberVar.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\obj\Debug\MemberVar.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\obj\Debug\MemberVar.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\obj\Debug\01MemberVar.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\01MemberVar\obj\Debug\01MemberVar.pdb

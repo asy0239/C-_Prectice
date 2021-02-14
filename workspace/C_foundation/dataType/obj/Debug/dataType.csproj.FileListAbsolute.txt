@@ -1,0 +1,7 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\bin\Debug\dataType.exe.config
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\bin\Debug\dataType.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\bin\Debug\dataType.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\obj\Debug\dataType.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\obj\Debug\dataType.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\obj\Debug\dataType.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\dataType\obj\Debug\dataType.csprojAssemblyReference.cache
