@@ -1,7 +1,0 @@
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\bin\Debug\WOWMAPEDITOR.exe.config
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\bin\Debug\WOWMAPEDITOR.exe
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\bin\Debug\WOWMAPEDITOR.pdb
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.csprojAssemblyReference.cache
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.csproj.CoreCompileInputs.cache
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.exe
-C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\UNITYST\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.pdb

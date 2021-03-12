@@ -1,0 +1,13 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\bin\Debug\netcoreapp3.1\ForVsForeach.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\bin\Debug\netcoreapp3.1\ForVsForeach.deps.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\bin\Debug\netcoreapp3.1\ForVsForeach.runtimeconfig.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\bin\Debug\netcoreapp3.1\ForVsForeach.runtimeconfig.dev.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\bin\Debug\netcoreapp3.1\ForVsForeach.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\bin\Debug\netcoreapp3.1\ForVsForeach.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.AssemblyInfoInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.AssemblyInfo.cs
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ForVsForeach\obj\Debug\netcoreapp3.1\ForVsForeach.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\bin\Debug\netcoreapp3.1\yieldTest.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\bin\Debug\netcoreapp3.1\yieldTest.deps.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\bin\Debug\netcoreapp3.1\yieldTest.runtimeconfig.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\bin\Debug\netcoreapp3.1\yieldTest.runtimeconfig.dev.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\bin\Debug\netcoreapp3.1\yieldTest.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\bin\Debug\netcoreapp3.1\yieldTest.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.AssemblyInfoInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.AssemblyInfo.cs
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\yieldTest\obj\Debug\netcoreapp3.1\yieldTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\bin\Debug\netcoreapp3.1\ClassTest.exe
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\bin\Debug\netcoreapp3.1\ClassTest.deps.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\bin\Debug\netcoreapp3.1\ClassTest.runtimeconfig.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\bin\Debug\netcoreapp3.1\ClassTest.runtimeconfig.dev.json
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\bin\Debug\netcoreapp3.1\ClassTest.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\bin\Debug\netcoreapp3.1\ClassTest.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.csprojAssemblyReference.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.AssemblyInfoInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.AssemblyInfo.cs
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.dll
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.pdb
+C:\Users\sungyun\OneDrive\Desktop\git\C#\workspace\C_foundation\ClassTest\obj\Debug\netcoreapp3.1\ClassTest.genruntimeconfig.cache
